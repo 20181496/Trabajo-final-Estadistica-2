@@ -3,12 +3,12 @@
 ## Miembros del grupo:
  + Joel ()
  + Jose Rios (20181496)
-Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal en Europa y
+ 
+Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal en Europa
 
-
-
-Base de Datos 1 
 Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA)
+
+### Base de Datos 1:
 
 4 Variables independients
  + Infraestructura (CIA)
@@ -17,5 +17,5 @@ Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA)
  + Obesidad (CIA)
 Meta data:
 
-Base de Datos 2
+### Base de Datos 2
 
