@@ -1,7 +1,7 @@
-# Trabajo-final-Estadistica-2
+# ENTREGA_1_Estadistica_2
 
 ## Miembros del grupo:
- + Joel ()
+ + Joel B. Huamani (20196510)
  + Jose Rios (20181496)
  
 Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal en Europa
@@ -18,4 +18,19 @@ Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA)
 Meta data:
 
 ### Base de Datos 2
+
+
+4 Variables independients
+
+ + 
+ 
+ + 
+ 
+ + 
+ 
+ + 
+
+
+
+
 
