@@ -1,0 +1,27 @@
+---
+title: "Limpieza de datos"
+author: "Jose Rios"
+date: "2022-09-09"
+output: html_document
+---
+
+```{r}
+linkE='https://en.wikipedia.org/wiki/Democracy_Index'
+xpathE='/html/body/div[3]/div[3]/div[5]/div[1]/table[5]'
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
