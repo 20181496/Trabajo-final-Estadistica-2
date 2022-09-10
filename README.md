@@ -6,24 +6,30 @@
  
 Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal 
 
-Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA)
+Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA) 
+ + -Da el porcentaje del resultado total de la mano de obra de jovenes que se encuentran en la edad de 15 a 22 años
+  Extraido de https://www.cia.gov/the-world-factbook/field/unemployment-youth-ages-15-24/country-comparison
 
 El desempleo es un problema economico, estructural por el cual miles de personas tienen que sobrevivir dia a dia. Consideramos que algunos factores socioeconomicos explicarán su incremento o disminución en el mundo. En ese sentido, consideraremos las siguientes variables:
 
 
 ### Base de Datos 1:
 
-4 Variables independients
- + Infraestructura (CIA)
- + -
+4 Variables independients y su Metadata
+ + Infraestructura de Carreteras(CIA)[RoadW.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539836/RoadW.csv)
+ + -Revisa los kilometros de Carreteras pavimentadas y no pavimentadas y las suma.
+   Extraido de https://www.cia.gov/the-world-factbook/field/roadways/country-comparison
  + Libertad Civica (Democracy Index Wikipedia)
- + - Revisa la Libertad civica, es decir, la libertad de los ciudadanos 
- + Educacion (CIA)
- + -
+ + - Revisa la Libertad civica, es decir, la libertad de los ciudadanos dentro del Estado en el que se encuentran residiendo
+   Extraido de https://en.wikipedia.org/wiki/Democracy_Index en el xpath "/html/body/div[3]/div[3]/div[5]/div[1]/table[6]"
+ + Gastos en Educacion(CIA)[GastosEdu.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539839/GastosEdu.csv)
+
+ + -Los gastos de educacion compara el gasto publico en educacion como porcentaje al PIB
+   Extraido de https://www.cia.gov/the-world-factbook/field/education-expenditures/country-comparison
  + Obesidad (CIA)
- + -
- 
-Meta data:
+ + - Considera el porcentaje de ciudadanos que son considerados obesos en un pais
+   Extraido de https://www.cia.gov/the-world-factbook/field/obesity-adult-prevalence-rate/country-comparison
+
 
 
 ### Base de Datos 2 (joel)
