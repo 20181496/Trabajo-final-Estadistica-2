@@ -4,7 +4,7 @@
  + Joel B. Huamani (20196510)
  + Jose Rios (20181496)
  
-Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal en Europa
+Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal 
 
 Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA)
 
@@ -22,9 +22,11 @@ Meta data:
 
 4 Variables independients
 
- + 
+ + Exportaciones (CIA) 
  
- + 
+ 
+ + Tasa neta de migración (CIA)
+
  
  + 
  
