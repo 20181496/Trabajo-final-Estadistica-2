@@ -4,7 +4,8 @@
  + Joel B. Huamani (20196510)
  + Jose Rios (20181496)
  
-Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal 
+Tema de investigacion: El desempleo de jovenes y su relacion con el desarrollo estatal [Desempleo.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539852/Desempleo.csv)
+
 
 Variable dependiente: Desempleo de jovenes de 15 a 22 años (CIA) 
  + -Da el porcentaje del resultado total de la mano de obra de jovenes que se encuentran en la edad de 15 a 22 años
