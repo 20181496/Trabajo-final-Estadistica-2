@@ -25,16 +25,22 @@ Meta data:
  + Exportaciones (CIA) 
  + - Compara el monto total en dólares estadounidenses de las exportaciones de mercancías sobre una base fob (franco a bordo). Estas cifras se calculan sobre la base del tipo de cambio.
  
+ [exportaciones.csv.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539623/exportaciones.csv.csv)
+
  + Tasa neta de migración (CIA)
  + - Compara la diferencia entre el número de personas que entran y salen de un país durante el año por cada 1000 personas (basado en la población a mitad de año).
  
+ [tmigra.csv.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539622/tmigra.csv.csv)
+
  + Tasa de crecimiento de la producción industrial (CIA)
  + - Compara el aumento porcentual anual de la producción industrial (incluye manufactura, minería y construcción).
  
+ [proindustrial. csv.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539621/proindustrial.csv.csv)
+
  + usuarios de Internet (CIA)
  + - compara el número de usuarios dentro de un país que acceden a Internet. Las estadísticas varían de un país a otro y pueden incluir usuarios que acceden a Internet al menos varias veces a la semana hasta aquellos que acceden solo una vez en un período de varios meses.
 
+[userInternet.csv.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539620/userInternet.csv.csv)
 
-Meta data:
 
 
