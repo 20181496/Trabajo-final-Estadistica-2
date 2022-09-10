@@ -15,9 +15,14 @@ El desempleo es un problema economico, estructural por el cual miles de personas
 
 4 Variables independients
  + Infraestructura (CIA)
- + Libertad Economica (Democracy Index Wikipedia)
+ + -
+ + Libertad Civica (Democracy Index Wikipedia)
+ + - Revisa la Libertad civica, es decir, la libertad de los ciudadanos 
  + Educacion (CIA)
+ + -
  + Obesidad (CIA)
+ + -
+ 
 Meta data:
 
 
