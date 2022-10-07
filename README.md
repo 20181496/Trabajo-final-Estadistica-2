@@ -20,6 +20,7 @@ El desempleo es un problema economico, estructural por el cual miles de personas
  + Infraestructura de Carreteras(CIA)[RoadW.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539836/RoadW.csv)
  + -Revisa los kilometros de Carreteras pavimentadas y no pavimentadas y las suma.
    Extraido de https://www.cia.gov/the-world-factbook/field/roadways/country-comparison
+   - Consideramos la importancia de los kilometros de carretera dentro del desempleo ya que una ausencia de carreteras dentro de un Estado puede terminar disminuyendo el area en la que un individuo puede trabajar, limitando sus opciones y por ende la posibilidad que este pueda o no trabajar. De acuerdo con los 
  + Libertad Civica (Democracy Index Wikipedia)
  + - Revisa la Libertad civica, es decir, la libertad de los ciudadanos dentro del Estado en el que se encuentran residiendo
    Extraido de https://en.wikipedia.org/wiki/Democracy_Index en el xpath "/html/body/div[3]/div[3]/div[5]/div[1]/table[6]"
