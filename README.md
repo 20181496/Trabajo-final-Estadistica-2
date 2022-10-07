@@ -37,25 +37,37 @@ El desempleo es un problema economico, estructural por el cual miles de personas
 
 4 Variables independientes:
 
- + Exportaciones (CIA) 
- + - Compara el monto total en dólares estadounidenses de las exportaciones de mercancías sobre una base fob (franco a bordo). Estas cifras se calculan sobre la base del tipo de cambio. En particular, creemos que será una de las variables influyentes en el modelo que expliquen el desempleo entre jóvenes de 15 a 22 años en el mundo. 
- 
-[exportaciones.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539624/exportaciones.csv)
-
- + Tasa neta de migración (CIA)
- + - Compara la diferencia entre el número de personas que entran y salen de un país durante el año por cada 1000 personas (basado en la población a mitad de año). Siempre se ha comentado, sobre todo, en los últimos años, que la migración influye en el desempleo de un país. En ese sentido, queremos comprobar si, efectivamente, ocurre o, por el contrario, impacta de manera positiva y promueve a disminuir la tasa de desempleo.
- 
-[tmigra.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539627/tmigra.csv)
-
  + Tasa de crecimiento de la producción industrial (CIA)
  + - Compara el aumento porcentual anual de la producción industrial (incluye manufactura, minería y construcción). Queremos conocer si contribuye signifcativamente en un posible modelo y afecte a nuestra variable dependiente o si existen otros factores más influyentes. En los paises desarrollados ha permitido mejorar el nivel de vida de sus miembros y una reactivación económica a corto plazo, pero queremos saber si influye aún si tomamos en cuenta los demás países.
  
 [proindustrial.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539625/proindustrial.csv)
 
- + usuarios de Internet (CIA)
- + - compara el número de usuarios dentro de un país que acceden a Internet. Las estadísticas varían de un país a otro y pueden incluir usuarios que acceden a Internet al menos varias veces a la semana hasta aquellos que acceden solo una vez en un período de varios meses. Escogí esta variable porque es interesante conocer si puede explicar la variable dependiente en tanto los usuarios asiduos que más acceden a internet durante una semana se encuentran desempleados.
+ 
++ Crecimiento del PIB (% anual)
+Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
 
-[userInternet.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9539626/userInternet.csv)
+https://datos.bancomundial.org/indicador/NY.GDP.MKTP.KD.ZG
+
+
++ Promedio grupal de gestión económica de la CPIA (1=bajo a 6=alto)
+El grupo de gestión económica incluye la gestión macroeconómica, la política fiscal y las políticas de deuda.
+
+https://datos.bancomundial.org/indicador/IQ.CPA.ECON.XQ?view=chart
+
+
++ Población que vive en barrios de tugurios (% de la población urbana)
+La población que vive en barrios marginales es la proporción de la población urbana que vive en hogares de barrios marginales. Un hogar de tugurios se define como un grupo de personas que viven bajo el mismo techo y carecen de una o más de las siguientes condiciones: acceso a agua mejorada, acceso a saneamiento mejorado, espacio suficiente para vivir y durabilidad de la vivienda. 
+
+https://datos.bancomundial.org/indicador/EN.POP.SLUM.UR.ZS?view=chart
+
+
+
+
+
+
+
+
+
 
 
 
