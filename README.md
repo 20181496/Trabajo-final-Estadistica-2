@@ -55,35 +55,40 @@ https://www.elcato.org/pdf_files/efw2010/efw-capitulo5-2010.pdf fecha de consult
 
 4 Variables independientes:
 
- + Tasa de crecimiento de la producción industrial (CIA)
+ + Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)
+ + - En los paises desarrollados ha permitido mejorar el nivel de vida de sus miembros y una reactivación económica a corto plazo, pero queremos saber si influye aún si tomamos en cuenta los demás países.
 
 
-[proindustrial.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737493/proindustrial.csv)
+[inverex.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737725/inverex.csv)
 
- + - Compara el aumento porcentual anual de la producción industrial (incluye manufactura, minería y construcción). Queremos conocer si contribuye signifcativamente en un posible modelo y afecte a nuestra variable dependiente o si existen otros factores más influyentes. En los paises desarrollados ha permitido mejorar el nivel de vida de sus miembros y una reactivación económica a corto plazo, pero queremos saber si influye aún si tomamos en cuenta los demás países.
-
+La inversión extranjera directa constituye la entrada neta de de inversiones para obtener un control de gestión duradero (por lo general, un 10% o más de las acciones que confieren derecho de voto) de una empresa que funciona en un país que no es el del inversionista. Es la suma del capital accionario, la reinversión de las ganancias, otras formas de capital a largo plazo y capital a corto plazo, tal como se describe en la balanza de pagos. Esta serie refleja el neto total, es decir, la IED neta en la economía informante proveniente de fuentes extranjeras menos la IED neta de la economía informante hacia el resto del mundo. Esta serie refleja las entradas netas en la economía informante y se divide por el PIB. Datos en US$ a precios actuales.
 
 
 + Crecimiento del PIB (% anual)
++ - 
 
-
-[PBI.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737603/PBI.xlsx)
+[PBI.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737728/PBI.csv)
 
 Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
 
 
 
 + Promedio grupal de gestión económica de la CPIA (1=bajo a 6=alto)
-El grupo de gestión económica incluye la gestión macroeconómica, la política fiscal y las políticas de deuda.
 
-[geseco.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737602/geseco.xlsx)
++ - 
+
+
+[geseco.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737726/geseco.csv)
+
+El grupo de gestión económica incluye la gestión macroeconómica, la política fiscal y las políticas de deuda.
 
 
 
 + Población que vive en barrios de tugurios (% de la población urbana)
++ - 
 
+[tugurio.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737723/tugurio.csv)
 
-[tugurio.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737485/tugurio.xlsx)
 
 La población que vive en barrios marginales es la proporción de la población urbana que vive en hogares de barrios marginales. Un hogar de tugurios se define como un grupo de personas que viven bajo el mismo techo y carecen de una o más de las siguientes condiciones: acceso a agua mejorada, acceso a saneamiento mejorado, espacio suficiente para vivir y durabilidad de la vivienda. 
 
