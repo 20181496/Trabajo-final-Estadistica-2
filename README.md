@@ -67,19 +67,17 @@ https://www.elcato.org/pdf_files/efw2010/efw-capitulo5-2010.pdf fecha de consult
 + Crecimiento del PIB (% anual)
 
 
-
-[PBI.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737482/PBI.xlsx)
+[PBI.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737603/PBI.xlsx)
 
 Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
-
 
 
 
 + Promedio grupal de gestión económica de la CPIA (1=bajo a 6=alto)
 El grupo de gestión económica incluye la gestión macroeconómica, la política fiscal y las políticas de deuda.
 
+[geseco.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737602/geseco.xlsx)
 
-[geseco.xlsx](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737483/geseco.xlsx)
 
 
 + Población que vive en barrios de tugurios (% de la población urbana)
