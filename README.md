@@ -93,8 +93,12 @@ El grupo de gestión económica incluye la gestión macroeconómica, la polític
 La población que vive en barrios marginales es la proporción de la población urbana que vive en hogares de barrios marginales. Un hogar de tugurios se define como un grupo de personas que viven bajo el mismo techo y carecen de una o más de las siguientes condiciones: acceso a agua mejorada, acceso a saneamiento mejorado, espacio suficiente para vivir y durabilidad de la vivienda. 
 
 
+variable dependiente:
+
+[Desempleo.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9739346/Desempleo.csv)
+
+
 Base de datos unificada:
-[data.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9739305/data.csv)
 
 
 
