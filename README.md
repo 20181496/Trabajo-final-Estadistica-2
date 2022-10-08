@@ -100,6 +100,7 @@ variable dependiente:
 
 Base de datos unificada:
 
+[data.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9739410/data.csv)
 
 
 
