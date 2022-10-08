@@ -56,41 +56,48 @@ https://www.elcato.org/pdf_files/efw2010/efw-capitulo5-2010.pdf fecha de consult
 4 Variables independientes:
 
  + Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)
- + - En los paises desarrollados ha permitido mejorar el nivel de vida de sus miembros y una reactivación económica a corto plazo, pero queremos saber si influye aún si tomamos en cuenta los demás países.
+ 
+ + - En los paises desarrollados ha permitido mejorar el nivel de vida de sus miembros y una reactivación económica a corto plazo, por ello, queremos saber si influye aun si tomamos en cuenta a los demás países del mundo. Es decir, puede estar  relacionado con la dinámica de la actividad económica, en el sentido de que un insuficiente inversión extranjera eleva los niveles de desempleo general, y en especial el de los sujetos jóvenes.
 
-
+data:
 [inverex.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737725/inverex.csv)
 
-La inversión extranjera directa constituye la entrada neta de de inversiones para obtener un control de gestión duradero (por lo general, un 10% o más de las acciones que confieren derecho de voto) de una empresa que funciona en un país que no es el del inversionista. Es la suma del capital accionario, la reinversión de las ganancias, otras formas de capital a largo plazo y capital a corto plazo, tal como se describe en la balanza de pagos. Esta serie refleja el neto total, es decir, la IED neta en la economía informante proveniente de fuentes extranjeras menos la IED neta de la economía informante hacia el resto del mundo. Esta serie refleja las entradas netas en la economía informante y se divide por el PIB. Datos en US$ a precios actuales.
++ - La inversión extranjera directa constituye la entrada neta de de inversiones para obtener un control de gestión duradero (por lo general, un 10% o más de las acciones que confieren derecho de voto) de una empresa que funciona en un país que no es el del inversionista. Es la suma del capital accionario, la reinversión de las ganancias, otras formas de capital a largo plazo y capital a corto plazo, tal como se describe en la balanza de pagos. Esta serie refleja el neto total, es decir, la IED neta en la economía informante proveniente de fuentes extranjeras menos la IED neta de la economía informante hacia el resto del mundo. Esta serie refleja las entradas netas en la economía informante y se divide por el PIB. Datos en US$ a precios actuales.
 
 
 + Crecimiento del PIB (% anual)
-+ - 
+
++ - De acuerdo con Garavito (1998), el desempleo está vinculado de algun modo a los cambios en el ciclo económico, en ese sentido, en periodos de crisis, el desempleo se eleva, pese a que los asalariados estén remunerados relativamente bien. Por ello, advertimos una relación entre la tasa del desemppleo y el crecimiento del PBI.
 
 [PBI.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737728/PBI.csv)
 
-Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
++ - Tasa de crecimiento anual porcentual del PIB a precios de mercado en moneda local, a precios constantes. Los agregados están expresados en dólares de los Estados Unidos a precios constantes del año 2010. El PIB es la suma del valor agregado bruto de todos los productores residentes en la economía más todo impuesto a los productos, menos todo subsidio no incluido en el valor de los productos. Se calcula sin hacer deducciones por depreciación de bienes manufacturados o por agotamiento y degradación de recursos naturales.
 
 
 
 + Promedio grupal de gestión económica de la CPIA (1=bajo a 6=alto)
 
-+ - 
++ - Otro factor determinante es la gestión económica de cada país. La legislación laboral o política económicas pueden influir en la tasa de desempleo. Por ejemplo, los contratos de Formación Laboral Juvenil implementados hace un tiempo abaratan los costos de contratación de la fuerza~laboral joven, por lo que se eleva el desempleo en distintas empresas (Garavito).
 
-
+data:
 [geseco.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737726/geseco.csv)
 
 El grupo de gestión económica incluye la gestión macroeconómica, la política fiscal y las políticas de deuda.
 
 
-
 + Población que vive en barrios de tugurios (% de la población urbana)
-+ - 
++ - En concordancia con De La Hoz et. al (2012), las condiciones socioeconómicas influyan en la situación laboral de lxs jóvenes. Según el ingreso del hogar, aquellos sujetos jóvenes integrantes de hogares con menores ingresos tienden a experimentar una menor probabilidad de ser empleadxs, en comparación con los integrantes de hogares con mayor ingreso. 
 
 [tugurio.csv](https://github.com/20181496/Trabajo-final-Estadistica-2/files/9737723/tugurio.csv)
 
++ La población que vive en barrios marginales es la proporción de la población urbana que vive en hogares de barrios marginales. Un hogar de tugurios se define como un grupo de personas que viven bajo el mismo techo y carecen de una o más de las siguientes condiciones: acceso a agua mejorada, acceso a saneamiento mejorado, espacio suficiente para vivir y durabilidad de la vivienda. 
 
-La población que vive en barrios marginales es la proporción de la población urbana que vive en hogares de barrios marginales. Un hogar de tugurios se define como un grupo de personas que viven bajo el mismo techo y carecen de una o más de las siguientes condiciones: acceso a agua mejorada, acceso a saneamiento mejorado, espacio suficiente para vivir y durabilidad de la vivienda. 
+
++ Bibliografía:
+
+Garavito, C. (1998). Determinantes del Desempleo en Lima Metropolitana, 1970-1996. Economia, 21(41), 143-183. Retrieved from https://revistas.pucp.edu.pe/index.php/economia/article/view/150
+
+De La Hoz, F. J., Quejada, R. & Yánez, M. (2012). El desempleo juvenil: problema de efectos perpetuos. Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud, 10, (1), pp. 427-439. Retrieved from http://www.scielo.org.co/pdf/rlcs/v10n1/v10n1a27
 
 
 variable dependiente:
